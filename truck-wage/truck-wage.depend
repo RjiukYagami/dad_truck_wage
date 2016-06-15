@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1466001084 source:c:\users\emil\documents\github\dad_truck_wage\truck-wage\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<cstdlib>
+	<math.h>
+
